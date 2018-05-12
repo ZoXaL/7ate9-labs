@@ -37,6 +37,6 @@
 
 |                              До                              |                            После                             |                         Что изменили                         |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| <img src="img/no_connection_old.gif" alt="no_connection_old" style="width: 200px;"/> | <img src="no_connection.gif" alt="no_connection" style="width: 200px;"/> | Добавили вывод сообщения о том, что пользователь не подключен к сети. |
-| <img src="img/wrong_nickname_old.gif" alt="wrong_nickname_old" style="width: 200px;"/> | <img src="wrong_nickname.gif" alt="wrong_nickname" style="width: 200px;"/> | Добавили запрет на вход с пустым именем и вывод соответствующего сообщения. |
-| <img src="img/wrong_lobby_name_old.gif" alt="wrong_lobby_name_old" style="width: 200px;"/> | <img src="wrong_lobby_name.gif" alt="wrong_lobby_name" style="width: 200px;"/> | Добавили запрет на создание лобби с пустым именем и вывод соответствующего сообщения. |
+| <img src="img/no_connection_old.gif" alt="no_connection_old" style="width: 200px;"/> | <img src="img/no_connection.gif" alt="no_connection" style="width: 200px;"/> | Добавили вывод сообщения о том, что пользователь не подключен к сети. |
+| <img src="img/wrong_nickname_old.gif" alt="wrong_nickname_old" style="width: 200px;"/> | <img src="img/wrong_nickname.gif" alt="wrong_nickname" style="width: 200px;"/> | Добавили запрет на вход с пустым именем и вывод соответствующего сообщения. |
+| <img src="img/wrong_lobby_name_old.gif" alt="wrong_lobby_name_old" style="width: 200px;"/> | <img src="img/wrong_lobby_name.gif" alt="wrong_lobby_name" style="width: 200px;"/> | Добавили запрет на создание лобби с пустым именем и вывод соответствующего сообщения. |
