@@ -3,11 +3,11 @@ Labs for BSUIR Software development and testing course (6 sem, spring 2018)
 
 ## Ссылки
 
-Лабораторные работы находятся [здесь](https://github.com/zoxal/7ate9-labs)
+[Лабораторные работы](https://github.com/zoxal/7ate9-labs)
 
-Клиентская часть [здесь](https://github.com/Kimentii/7ate9-client)
+[Клиентская часть](https://github.com/Kimentii/7ate9-client)
 
-Серверная часть [здесь](https://github.com/zoxal/7ate9)
+[Серверная часть](https://github.com/zoxal/7ate9)
 
 Документация проекта находится [здесь](https://github.com/ZoXaL/7ate9-backend/wiki)
 
